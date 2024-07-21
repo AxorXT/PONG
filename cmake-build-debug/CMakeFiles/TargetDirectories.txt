@@ -1,0 +1,3 @@
+C:/Users/Angel/Desktop/Proyectos/PONG/cmake-build-debug/CMakeFiles/PONG.dir
+C:/Users/Angel/Desktop/Proyectos/PONG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Angel/Desktop/Proyectos/PONG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
